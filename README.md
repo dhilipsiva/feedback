@@ -3,8 +3,6 @@ feedback
 
 Ask @dhilipsiva anything
 
-This is inspired by [holman/feedback](https://github.com/holman/feedback)
-
 This is a quick little ask-me-anything type of repository.
 
 I blog at [http://dhilipsiva.com/blog/](http://dhilipsiva.com/blog/)
@@ -42,3 +40,7 @@ Twitter.
 ### Email
 
 If you want to ask something really private, email to [dhilipsiva@gmail.com](mailto:dhilipsiva@gmail.com)
+
+### Inspiration
+
+This repo inspired by [holman/feedback](https://github.com/holman/feedback)
